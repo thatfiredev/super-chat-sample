@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "278792353469",
+    "firebase_url": "https://super-chat-sample.firebaseio.com",
+    "project_id": "super-chat-sample",
+    "storage_bucket": "super-chat-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278792353469:android:27be4e1b80a0dfd1",
+        "android_client_info": {
+          "package_name": "io.github.rosariopfernandes.superchatsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278792353469-6mq8j5i2ld0flmo5mmv7v5vktms2lij1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.rosariopfernandes.superchatsample",
+            "certificate_hash": "4cd2225c1352b062af7035e391bf3318b13c5cc1"
+          }
+        },
+        {
+          "client_id": "278792353469-4f4uafcoo7m9o39ql9a3i9gqeldbqqjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrVb2ox8Y0Cv2KXYzkIIzNmEVZsvVhuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278792353469-4f4uafcoo7m9o39ql9a3i9gqeldbqqjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
